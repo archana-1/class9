@@ -13,14 +13,14 @@ function draw()
 {
   background(30);
 
-  if(keyIsDown(RIGHT_ARROW)){
+ /* if(keyIsDown(RIGHT_ARROW)){
     box.position.x += 5 
   }
 
   if(keyIsDown(LEFT_ARROW)){
     box.position.x -= 5 
   }
-  box.bounceOff(edges)
+  box.bounceOff(edges)*/
   drawSprites();
 
 }
